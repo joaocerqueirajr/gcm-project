@@ -4,4 +4,6 @@
 
 #Interesse: Estudantil
 
+#Função: Aluno
+
 #Instituição: Faculdade Impacta
